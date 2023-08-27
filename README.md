@@ -11,7 +11,8 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Usage</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#docker-notes">Docker Notes</a>
+  <a href="#docker-notes">Docker ![IMG_0421](https://github.com/Ygskif/sherlock/assets/142753749/8589677d-ed3b-4092-ad6b-a29e329b53ae)
+Notes</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contributing">Contributing</a>
 </p>
